@@ -1,7 +1,7 @@
 {
-  "name": "tuic-hy2-reality",
+  "name": "SB-NJ",
   "version": "1.0.0",
-  "description": "TUIC + Hysteria2 + Reality·北京时间零点重启",
+  "description": "TUIC + Hysteria2 + Reality + ARGO",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -11,3 +11,4 @@
     "node": ">=18"
   }
 }
+
